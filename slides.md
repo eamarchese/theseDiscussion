@@ -1,22 +1,21 @@
-<!-- .slide: data-background-image="img/home_ver2.png" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/montrealMondeReel.jpg" data-background-size="cover"-->
 <!-- .slide: class="hover"-->
 
-## _Laisse venir_ et les autres. Les oligoptiques face à la géolocalisation
+### Pour une esthétique géolocalisée. Imaginaire, littérature et espace à l’époque du numérique.
 
-Enrico Agostini-Marchese
+Enrico Agostini Marchese
 <br />
-La route et ses bas-côtés. Imaginaire des lieux autoroutiers liminaires
 <br />
-Montréal - 10 décembre 2020
+Soutenance de thèse - Ph. D.
+<br />
+<br />
+Université de Montréal
+<br />
+<br />
+Montréal - 26 avril 2021
 
 
-![logo CRCEN](img/LogoENDT10-2016.png) <!-- .element: class="logo" style="width:30%; background-color:ghostwhite;padding: 5px" -->
-
-<!-- .element: style="font-size:1.4rem" -->
-
-![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png) <!-- .element: class="logo" -->
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/chaire.png" data-background-size="contain"-->
+![logo CRCEN](img/logoChaire.jpg) <!-- .element: class="logo" style="height:10vw" --> ![CC-BY-SA](img/ccBySa.png) <!-- .element: class="logo" style="height:10vw" -->
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/home_ver1.png" -->
 <!-- .slide: class="hover"-->

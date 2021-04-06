@@ -316,6 +316,7 @@ body {
 .reveal section img.logo {
   border: none;
   box-shadow: none;
+  display: inline-block;
 }
 
 .source {

@@ -218,6 +218,7 @@
 .reveal section img.logo {
   border: none;
   box-shadow: none;
+	margin: 5px 10%;
 }
 
 .source {
