@@ -17,6 +17,79 @@ Montréal - 26 avril 2021
 
 ![logo CRCEN](img/logoChaire.jpg) <!-- .element: class="logo" style="height:10vw" --> ![CC-BY-SA](img/ccBySa.png) <!-- .element: class="logo" style="height:10vw" -->
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: class="hover"-->
+## Problématiques
+
+- Qu'est-ce que l'espace aujourd'hui, à l'ère du numérique ?
+- Comment la littérature et les arts plus en général produisent-ils des nouveaux imaginaires spatiaux ?
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: class="hover"-->
+## _Des espaces autres_ : la topologie de l'espace
+
+- Localisation, Antiquité
+- Étendue, Première revolution scientifique
+- Emplacement, XXe siècle et modernité/contemporaneité
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: class="hover"-->
+## Géolocalisation
+
+Vers une nouvelle époque/forme spatiale ?
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: class="hover"-->
+### Le _tournant spatial_ : vers une nouvelle conception de l'espace
+
+- L'espace est un produit (social)
+- L'espace est un produit (humain)
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: class="hover"-->
+
+### Lefebvre et l'espace
+
+- Pratique spatiale
+- Représentations de l'espace
+- Espaces de représentation
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: class="hover"-->
+
+### Les espaces de représentation
+<small>
+>Les espaces de représentation, présentant (avec ou sans codage) des symbolismes complexes, liés au côté clandestin et souterrain de la vie sociale, mais aussi à l’art, qui pourrait éventuellement se définir non pas comme code l’espace mais comme code des espaces de représentation.
+
+Henri Lefebvre, _La production de l'espace_, p. 43.
+
+<!-- .element: class="source" -->
+
+
+
+>[l]’espace vécu à travers les images et symboles qui l’accompagnent, donc espace des “habitants”, des “usagers”, mais aussi de certains artistes et peut-être de ceux qui décrivent et croient seulement décrire : les écrivains, les philosophes. C’est l’espace dominé, donc subi, que tente de modifier et d’approprier l’imagination. Il recouvre l’espace physique en utilisant symboliquement ses objets.
+
+Henri Lefebvre, _La production de l'espace_, p. 49.
+
+<!-- .element: class="source" -->
+
+</small>
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: class="hover"-->
+### Pour un imaginaire spatial autre
+
+- Gaston Bachelard : la consistance ontologique de l'imaginaire spatial
+- Guy Debord et le situationniste : la consistance sociale de l'imaginaire spatial
+- Kevin Lynch : la consistance relationnelle de l'imaginaire spatial
+- Michel de Certeau et Donna Haraway : la consistance multiple de l'imaginaire spatial
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: class="hover"-->
+### La quadrilogie spatiale de Carl Schmitt
+
+- Milieu agentif
+- Le pouvoir
+- La technologie et la technique
+- L'imaginaire
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: class="hover"-->
+### L'espace géolocalisé contemporain et la littérature
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/home_ver1.png" -->
 <!-- .slide: class="hover"-->
 ### _Dérives_
