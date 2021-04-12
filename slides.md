@@ -17,13 +17,28 @@ Montréal - 26 avril 2021
 
 ![logo CRCEN](img/digit-white.svg) <!-- .element: class="logo" style="height:10vw" -->
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Expérience
+
+- Du latin _experire_
+- Ex
+- per
+- ire
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# EX
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+- Structure
+- Influence multidisciplinaire
+- Méthodologie multidisciplinaire
+- Recherche et pratique
+- Vécu
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/tendre.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 ## Problématiques
 
 - Qu'est-ce que l'espace aujourd'hui, à l'ère du numérique ?
 - Comment la littérature et les arts plus en général produisent-ils des nouveaux imaginaires spatiaux ?
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/mappe.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 ## _Des espaces autres_ : la topologie de l'espace
@@ -38,44 +53,19 @@ Montréal - 26 avril 2021
 
 Vers une nouvelle époque/forme spatiale ?
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# PER
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/derive.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 ### Le _tournant spatial_ : vers une nouvelle conception de l'espace
 
 - L'espace est un produit (social)
 - L'espace est un produit (humain)
+- Henri Lefebvre
+  - Pratique spatiale
+  - Représentations de l'espace
+  - Espaces de représentation
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/barc.png" data-background-size="contain"-->
-<!-- .slide: class="hover"-->
-
-### Lefebvre et l'espace
-
-- Pratique spatiale
-- Représentations de l'espace
-- Espaces de représentation
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/richter.jpg" data-background-size="contain"-->
-<!-- .slide: class="hover"-->
-
-### Les espaces de représentation
-<small>
->Les espaces de représentation, présentant (avec ou sans codage) des symbolismes complexes, liés au côté clandestin et souterrain de la vie sociale, mais aussi à l’art, qui pourrait éventuellement se définir non pas comme code l’espace mais comme code des espaces de représentation.
-
-Henri Lefebvre, _La production de l'espace_, p. 43.
-
-<!-- .element: class="source" -->
-
-
-
->[l]’espace vécu à travers les images et symboles qui l’accompagnent, donc espace des “habitants”, des “usagers”, mais aussi de certains artistes et peut-être de ceux qui décrivent et croient seulement décrire : les écrivains, les philosophes. C’est l’espace dominé, donc subi, que tente de modifier et d’approprier l’imagination. Il recouvre l’espace physique en utilisant symboliquement ses objets.
-
-Henri Lefebvre, _La production de l'espace_, p. 49.
-
-<!-- .element: class="source" -->
-
-</small>
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/city.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 ### Pour un imaginaire spatial autre
@@ -84,16 +74,9 @@ Henri Lefebvre, _La production de l'espace_, p. 49.
 - Guy Debord et le situationniste : la consistance sociale de l'imaginaire spatial
 - Kevin Lynch : la consistance relationnelle de l'imaginaire spatial
 - Michel de Certeau et Donna Haraway : la consistance multiple de l'imaginaire spatial
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/nomos.jpg" data-background-size="contain"-->
-<!-- .slide: class="hover"-->
-### La quadrilogie spatiale de Carl Schmitt
-
-- Milieu agentif
-- Le pouvoir
-- La technologie et la technique
-- L'imaginaire
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# PER 2.0
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/edito.png" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 ### Le tournant numérique
@@ -101,24 +84,11 @@ Henri Lefebvre, _La production de l'espace_, p. 49.
 - Fait culturel
 - Fait en continuité
 - Fait global
-- Il impacte la spatialité
+- Fait spatial
+ - Cyberespace
+ - Internet est un espace
+ - Géolocalisation
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/connection.jpg" data-background-size="contain"-->
-<!-- .slide: class="hover"-->
-### Le numérique et l'espace
-
-- Cyberespace
-- Internet est un espace
-- Géolocalisation
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/paris.png" data-background-size="contain"-->
-<!-- .slide: class="hover"-->
-### Les structures de la géolocalisation
-
-- Technique
-- Pouvoir
-- Milieu
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/googleEarth.jpeg" data-background-size="contain"-->
 ### La géolocalisation : un nouvel imaginaire spatial ?
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -138,6 +108,8 @@ Henri Lefebvre, _La production de l'espace_, p. 49.
 - Hyperconnexion
 - Littérarité
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# IRE
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/location.jpg" data-background-size="contain"-->
 ### Vers une esthétique géolocalisée
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -152,7 +124,7 @@ Henri Lefebvre, _La production de l'espace_, p. 49.
 <!-- .slide: data-background-image="img/voyage.png" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 ### _Laisse Venir_ : la géolocalisation au-delà de la pensée unique
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/plasma.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 ### Outils pour une théorie de l'esthétique géolocalisée
