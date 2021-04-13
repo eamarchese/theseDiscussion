@@ -76,7 +76,7 @@ Vers une nouvelle époque/forme spatiale ?
 ### Pour un imaginaire spatial autre
 
 - Gaston Bachelard : la consistance ontologique de l'imaginaire spatial
-- Guy Debord et le situationniste : la consistance sociale de l'imaginaire spatial
+- Guy Debord et le situationnisme : la consistance sociale de l'imaginaire spatial
 - Kevin Lynch : la consistance relationnelle de l'imaginaire spatial
 - Michel de Certeau et Donna Haraway : la consistance multiple de l'imaginaire spatial
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
