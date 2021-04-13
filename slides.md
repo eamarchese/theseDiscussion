@@ -17,6 +17,8 @@ Montréal - 26 avril 2021
 
 ![logo CRCEN](img/digit-white.svg) <!-- .element: class="logo" style="height:10vw" -->
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/ithaque.jpg" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
 # Expérience
 
 - Du latin _experire_
@@ -24,9 +26,11 @@ Montréal - 26 avril 2021
 - per
 - ire
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/ithaque.jpg" data-background-size="contain"-->
 # EX
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-- Structure
+<!-- .slide: data-background-image="img/montrealMondeReel.jpg" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
 - Influence multidisciplinaire
 - Méthodologie multidisciplinaire
 - Recherche et pratique
@@ -53,9 +57,10 @@ Montréal - 26 avril 2021
 
 Vers une nouvelle époque/forme spatiale ?
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/ithaque.jpg" data-background-size="contain"-->
 # PER
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/derive.jpg" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/borges.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 ### Le _tournant spatial_ : vers une nouvelle conception de l'espace
 
@@ -75,6 +80,7 @@ Vers une nouvelle époque/forme spatiale ?
 - Kevin Lynch : la consistance relationnelle de l'imaginaire spatial
 - Michel de Certeau et Donna Haraway : la consistance multiple de l'imaginaire spatial
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/ithaque.jpg" data-background-size="contain"-->
 # PER 2.0
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/edito.png" data-background-size="contain"-->
@@ -108,6 +114,7 @@ Vers une nouvelle époque/forme spatiale ?
 - Hyperconnexion
 - Littérarité
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/ithaque.jpg" data-background-size="contain"-->
 # IRE
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/location.jpg" data-background-size="contain"-->
@@ -132,4 +139,4 @@ Vers une nouvelle époque/forme spatiale ?
 - Le _placetelling_
 - Les oligoptiques
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: class="hover"-->
+# Merci, c'est fini !
