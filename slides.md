@@ -139,4 +139,4 @@ Vers une nouvelle époque/forme spatiale ?
 - Le _placetelling_
 - Les oligoptiques
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-# Merci, c'est fini !
+# Merci, c'est fini, nous sommes arrivé.e.s
