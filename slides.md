@@ -123,14 +123,24 @@ Vers une nouvelle époque/forme spatiale ?
 <!-- .slide: data-background-image="img/home_ver2.png" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 ###_#dérive(s)_ : la géolocalisation au-delà de la technique
+
+- #nomDeLieu
+- #dérives
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/girardin.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 ### _The World's Eyes_ : la géolocalisation au-delà du pouvoir
+
+- Empreintes numériques passives
+- Emrpeintes numériques actives
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/voyage.png" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 ### _Laisse Venir_ : la géolocalisation au-delà de la pensée unique
+
+- Totalité homogène, maniable, continue, dense, transparente
+- Partialité multiple, affective, complexe, perspectivale, opaque
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/plasma.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
