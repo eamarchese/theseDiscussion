@@ -124,8 +124,8 @@ Vers une nouvelle époque/forme spatiale ?
 <!-- .slide: class="hover"-->
 ###_#dérive(s)_ : la géolocalisation au-delà de la technique
 
-- #nomDeLieu
-- #dérives
+- \#nomDeLieu
+- \#dérives
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/girardin.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
